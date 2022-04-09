@@ -1,0 +1,24 @@
+.add-new-user-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    height: 100vh;
+    margin: 20px;
+}
+
+.add-new-user-input {
+    width: 50%;
+    background-color: #fff;
+    height: 40px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.add-new-user-button {
+    width: 40%;
+    background-color: aqua;
+    height: 40px;
+    border-radius: 10px;
+}
+
